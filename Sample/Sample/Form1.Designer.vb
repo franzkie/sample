@@ -26,6 +26,7 @@ Partial Class Form1
         Me.TextBox1 = New System.Windows.Forms.TextBox()
         Me.TextBox2 = New System.Windows.Forms.TextBox()
         Me.TextBox3 = New System.Windows.Forms.TextBox()
+        Me.VScrollBar1 = New System.Windows.Forms.VScrollBar()
         Me.SuspendLayout()
         '
         'Button1
@@ -58,11 +59,19 @@ Partial Class Form1
         Me.TextBox3.Size = New System.Drawing.Size(381, 20)
         Me.TextBox3.TabIndex = 2
         '
+        'VScrollBar1
+        '
+        Me.VScrollBar1.Location = New System.Drawing.Point(466, 17)
+        Me.VScrollBar1.Name = "VScrollBar1"
+        Me.VScrollBar1.Size = New System.Drawing.Size(16, 181)
+        Me.VScrollBar1.TabIndex = 3
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(500, 330)
+        Me.Controls.Add(Me.VScrollBar1)
         Me.Controls.Add(Me.TextBox3)
         Me.Controls.Add(Me.TextBox2)
         Me.Controls.Add(Me.TextBox1)
@@ -77,5 +86,6 @@ Partial Class Form1
     Friend WithEvents TextBox1 As System.Windows.Forms.TextBox
     Friend WithEvents TextBox2 As System.Windows.Forms.TextBox
     Friend WithEvents TextBox3 As System.Windows.Forms.TextBox
+    Friend WithEvents VScrollBar1 As System.Windows.Forms.VScrollBar
 
 End Class

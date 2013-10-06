@@ -1,2 +1,11 @@
 E:\Projects\temp\git-sam\sample\Sample\Sample\bin\Debug\Sample.exe.config
 F:\git-files\sample\sample\Sample\bin\Debug\Sample.exe.config
+E:\Projects\temp\git-sam\sample\Sample\Sample\bin\Debug\Sample.exe
+E:\Projects\temp\git-sam\sample\Sample\Sample\bin\Debug\Sample.pdb
+E:\Projects\temp\git-sam\sample\Sample\Sample\bin\Debug\Sample.xml
+E:\Projects\temp\git-sam\sample\Sample\Sample\obj\Debug\Sample.Form1.resources
+E:\Projects\temp\git-sam\sample\Sample\Sample\obj\Debug\Sample.Resources.resources
+E:\Projects\temp\git-sam\sample\Sample\Sample\obj\Debug\Sample.vbproj.GenerateResource.Cache
+E:\Projects\temp\git-sam\sample\Sample\Sample\obj\Debug\Sample.exe
+E:\Projects\temp\git-sam\sample\Sample\Sample\obj\Debug\Sample.xml
+E:\Projects\temp\git-sam\sample\Sample\Sample\obj\Debug\Sample.pdb
