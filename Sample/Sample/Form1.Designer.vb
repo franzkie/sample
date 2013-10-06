@@ -28,6 +28,7 @@ Partial Class Form1
         Me.VScrollBar1 = New System.Windows.Forms.VScrollBar()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.CheckedListBox1 = New System.Windows.Forms.CheckedListBox()
+        Me.CheckedListBox2 = New System.Windows.Forms.CheckedListBox()
         Me.SuspendLayout()
         '
         'TextBox1
@@ -70,16 +71,25 @@ Partial Class Form1
         'CheckedListBox1
         '
         Me.CheckedListBox1.FormattingEnabled = True
-        Me.CheckedListBox1.Location = New System.Drawing.Point(11, 37)
+        Me.CheckedListBox1.Location = New System.Drawing.Point(185, 191)
         Me.CheckedListBox1.Name = "CheckedListBox1"
-        Me.CheckedListBox1.Size = New System.Drawing.Size(24, 154)
+        Me.CheckedListBox1.Size = New System.Drawing.Size(111, 34)
         Me.CheckedListBox1.TabIndex = 5
+        '
+        'CheckedListBox2
+        '
+        Me.CheckedListBox2.FormattingEnabled = True
+        Me.CheckedListBox2.Location = New System.Drawing.Point(68, 191)
+        Me.CheckedListBox2.Name = "CheckedListBox2"
+        Me.CheckedListBox2.Size = New System.Drawing.Size(111, 34)
+        Me.CheckedListBox2.TabIndex = 5
         '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(500, 330)
+        Me.Controls.Add(Me.CheckedListBox2)
         Me.Controls.Add(Me.CheckedListBox1)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.VScrollBar1)
@@ -98,5 +108,6 @@ Partial Class Form1
     Friend WithEvents VScrollBar1 As System.Windows.Forms.VScrollBar
     Friend WithEvents Button2 As System.Windows.Forms.Button
     Friend WithEvents CheckedListBox1 As System.Windows.Forms.CheckedListBox
+    Friend WithEvents CheckedListBox2 As System.Windows.Forms.CheckedListBox
 
 End Class
