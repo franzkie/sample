@@ -1,5 +1,6 @@
 E:\Projects\temp\git-sam\sample\Sample\Sample\bin\Debug\Sample.exe.config
 F:\git-files\sample\sample\Sample\bin\Debug\Sample.exe.config
+<<<<<<< HEAD
 E:\Projects\temp\git-sam\sample\Sample\Sample\bin\Debug\Sample.exe
 E:\Projects\temp\git-sam\sample\Sample\Sample\bin\Debug\Sample.pdb
 E:\Projects\temp\git-sam\sample\Sample\Sample\bin\Debug\Sample.xml
@@ -9,3 +10,5 @@ E:\Projects\temp\git-sam\sample\Sample\Sample\obj\Debug\Sample.vbproj.GenerateRe
 E:\Projects\temp\git-sam\sample\Sample\Sample\obj\Debug\Sample.exe
 E:\Projects\temp\git-sam\sample\Sample\Sample\obj\Debug\Sample.xml
 E:\Projects\temp\git-sam\sample\Sample\Sample\obj\Debug\Sample.pdb
+=======
+>>>>>>> 7d5bcd72e4ceaf8dc8aa28817e0e70bfabee4205
