@@ -1,1 +1,2 @@
 E:\Projects\temp\git-sam\sample\Sample\Sample\bin\Debug\Sample.exe.config
+F:\git-files\sample\sample\Sample\bin\Debug\Sample.exe.config
